@@ -1,0 +1,22 @@
+
+
+
+
+/*Bootstrap Media Queries*/
+
+@media (min-width: 576px) { 
+}
+ 
+
+@media (min-width: 768px) { 
+    .flxheight {
+        height: 180%;
+    }
+
+    .flxrowheight{
+        height: 100%;
+    }
+    .slimg {
+        max-width: 33%;
+    }
+ }
